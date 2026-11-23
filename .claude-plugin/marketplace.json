@@ -1,0 +1,21 @@
+{
+  "name": "waffleparty",
+  "owner": {
+    "name": "Luke Fritz",
+    "url": "https://github.com/lukiffer"
+  },
+  "metadata": {
+    "description": "Plugins from waffleparty"
+  },
+  "plugins": [
+    {
+      "name": "waffle",
+      "description": "Skills, agents, and hooks for coding agents",
+      "source": {
+        "source": "github",
+        "repo": "waffleparty/waffle"
+      },
+      "strict": true
+    }
+  ]
+}
