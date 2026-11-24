@@ -13,9 +13,11 @@
       "description": "Skills, agents, and hooks for coding agents",
       "source": {
         "source": "github",
-        "repo": "waffleparty/waffle"
+        "repo": "waffleparty/waffle",
+        "ref": "0.1.0"
       },
-      "strict": true
+      "strict": true,
+      "version": "0.1.0"
     }
   ]
 }
