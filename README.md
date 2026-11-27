@@ -4,7 +4,7 @@ The plugin catalog for waffleparty. It holds no plugin code: each entry points a
 
 | Plugin | Repository |
 | --- | --- |
-| `waffle` | [waffleparty/waffle](https://github.com/waffleparty/waffle) |
+| `waffles` | [waffleparty/waffles](https://github.com/waffleparty/waffles) |
 
 ## Use
 
@@ -12,14 +12,14 @@ Claude Code:
 
 ```text
 /plugin marketplace add waffleparty/marketplace
-/plugin install waffle@waffleparty
+/plugin install waffles@waffleparty
 ```
 
 ## Updates
 
 A plugin's release workflow opens a pull request here that moves its entry's `source.ref` and `version` to the new tag. Tags have no `v` prefix (`1.4.0`).
 
-An entry with no `ref` follows the plugin repository's default branch. `waffle` has no `ref` until its first release.
+An entry with no `ref` follows the plugin repository's default branch.
 
 ## License
 

@@ -9,15 +9,15 @@
   },
   "plugins": [
     {
-      "name": "waffle",
+      "name": "waffles",
       "description": "Skills, agents, and hooks for coding agents",
       "source": {
         "source": "github",
-        "repo": "waffleparty/waffle",
-        "ref": "0.1.0"
+        "repo": "waffleparty/waffles",
+        "ref": "0.2.0"
       },
       "strict": true,
-      "version": "0.1.0"
+      "version": "0.2.0"
     }
   ]
 }
